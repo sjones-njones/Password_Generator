@@ -6,9 +6,9 @@ This project was my first attempt at writing javascript code. It took so long an
   
 ## Usage
 
-https://sjones-njones.github.io/Password-Generator/
+https://sjones-njones.github.io/Password_Generator/
 
-https://github.com/sjones-njones/Password-Generator.git
+https://github.com/sjones-njones/Password_Generator.git
 
 ![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/3fe45d82-0a59-4aa7-aa83-c6718242f4f3)
 ![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/ec626c28-eec2-490f-9273-f00dcca7306d)
