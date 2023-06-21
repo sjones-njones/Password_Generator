@@ -10,13 +10,15 @@ https://sjones-njones.github.io/Password-Generator/
 
 https://github.com/sjones-njones/Password-Generator.git
 
-![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/c1f4766c-a96d-4402-85eb-bae767dcff6b)
-![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/603e26ba-11e6-48b4-b8cc-08ee7f69bc11)
-![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/441b88db-8b2e-4739-993a-77b8f1e0bcf2)
-![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/1a3e066b-1a04-4ac0-aeca-3229617ea6c4)
-![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/f8d94cba-6382-4e6f-be2a-1ce0948a066c)
-![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/7199aace-ac3b-4481-ac5d-cc9147ddf428)
-![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/601465fd-43d2-45ee-96c6-88d574e68736)
+![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/3fe45d82-0a59-4aa7-aa83-c6718242f4f3)
+![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/ec626c28-eec2-490f-9273-f00dcca7306d)
+![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/cd21f41f-e386-44ed-8265-62293a5f4944)
+![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/1781e747-ec8c-4c8d-8979-4b43b4726154)
+![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/2636400d-c465-4529-80f7-38ae683a06eb)
+![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/eeb88a56-490d-4f3d-a20d-0395324d7851)
+![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/631f12c0-43b2-4f72-8496-084543be19e5)
+![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/3eee0f31-7083-40c3-8a63-6ffd75c8b365)
+
 
 
 ## Credits
