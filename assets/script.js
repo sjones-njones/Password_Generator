@@ -1,4 +1,3 @@
-// Assignment Code
 // stores variable
 var generateBtn = document.querySelector("#generate");
 
@@ -8,24 +7,25 @@ function writePassword() {
   var passwordText = document.querySelector("#password");
   passwordText.value = password;
 }
+
 // stores variables for all possible password characters 
 var optionsNum = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
 var optionsABCLower = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
 var optionsABCUpper = optionsABCLower.map(optionsABCLower => optionsABCLower.toUpperCase());
-var optionsSpCh = ['!', '#', '$', '%', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '^', '`', '{', '|', '}', '~', '\'','\"','\[', '\]', '\\', '\_'];
+var optionsSpCh = ['!', '#', '$', '%', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '^', '`', '{', '|', '}', '~', '\'', '\"', '\[', '\]', '\\', '\_'];
 var useChars = [];
 var pwLength;
 
 function generatePassword() {
-  useChars= [];
+  useChars = [];
   promptMe();
-  if (useChars==[])  {
-    
+  if (useChars == []) {
+
   }
-  var pwText= "";
-  for (var i=0; i<pwLength; i++) {
-  
-  var rng =  Math.floor(Math.random() * useChars.length);
+  var pwText = "";
+  for (var i = 0; i < pwLength; i++) {
+
+    var rng = Math.floor(Math.random() * useChars.length);
     pwText += useChars[rng];
   }
   return pwText;
@@ -36,7 +36,7 @@ function promptMe() {
   var characterPrompt = Number(window.prompt("How many characters would you like in your password? Enter a number between 8 and 128."));
   if (characterPrompt < 8 || characterPrompt > 128 || isNaN(characterPrompt)) {
     window.alert("Please choose a number between 8 and 128.");
-  } else { 
+  } else {
     pwLength = characterPrompt;
     promptMeLower();
   }
