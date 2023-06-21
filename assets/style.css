@@ -1,9 +1,9 @@
+/* is applied to the entire document */
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
-
 
 html,
 body,
@@ -12,29 +12,25 @@ body,
   margin: 0;
   padding: 0;
 }
-
-
+/* sets font and background color */
 body {
   font-family: sans-serif;
   background-color: #f9fbfd;
 }
-
 
 .wrapper {
   padding-top: 30px;
   padding-left: 20px;
   padding-right: 20px;
 }
-
-
+/* formats the header section */
 header {
   text-align: center;
   padding: 20px;
   padding-top: 0px;
   color: hsl(206, 17%, 28%);
 }
-
-
+/* formats the card class */
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
@@ -47,7 +43,6 @@ header {
   padding: 30px 40px;
 }
 
-
 .card-header::after {
   content: " ";
   display: block;
@@ -56,16 +51,13 @@ header {
   height: 2px;
 }
 
-
 .card-body {
   min-height: 100px;
 }
 
-
 .card-footer {
   text-align: center;
 }
-
 
 .card-footer::before {
   content: " ";
@@ -75,14 +67,12 @@ header {
   height: 2px;
 }
 
-
 .card-footer::after {
   content: " ";
   display: block;
   clear: both;
 }
-
-
+/* formats the btn class */
 .btn {
   border: none;
   background-color: hsl(360, 91%, 36%);
@@ -99,18 +89,16 @@ header {
   cursor: pointer;
 }
 
-
+/* formats the button  */
 button[disabled] {
   cursor: default;
   background: #c0c7cf;
 }
 
-
 .float-right {
   float: right;
 }
-
-
+/* adds border and padding and other attributes  to the password id */
 #password {
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -132,7 +120,7 @@ button[disabled] {
   overflow: hidden;
 }
 
-
+/* adds  responsivness to page */
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;
@@ -140,15 +128,14 @@ button[disabled] {
     padding: 10px 15px;
   }
 
-
   #password {
     font-size: 1rem;
   }
 }
-
-
+/* adds  responsivness to page */
 @media (max-width: 500px) {
   .btn {
     font-size: 0.8rem;
   }
 }
+
