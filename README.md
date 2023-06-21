@@ -15,7 +15,6 @@ https://github.com/sjones-njones/Password-Generator.git
 ![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/cd21f41f-e386-44ed-8265-62293a5f4944)
 ![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/1781e747-ec8c-4c8d-8979-4b43b4726154)
 ![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/2636400d-c465-4529-80f7-38ae683a06eb)
-![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/eeb88a56-490d-4f3d-a20d-0395324d7851)
 ![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/631f12c0-43b2-4f72-8496-084543be19e5)
 ![image](https://github.com/sjones-njones/Password_Generator/assets/132145599/3eee0f31-7083-40c3-8a63-6ffd75c8b365)
 
